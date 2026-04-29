@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/code/Mlflow/mlruns/0/9e95aaea089f4602a672a71af93ece03/artifacts
+end_time: 1777441272751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e95aaea089f4602a672a71af93ece03
+run_name: caring-swan-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777441260345
+status: 3
+tags: []
+user_id: 1609p

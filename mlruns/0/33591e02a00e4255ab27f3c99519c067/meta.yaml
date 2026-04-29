@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/code/Mlflow/mlruns/0/33591e02a00e4255ab27f3c99519c067/artifacts
+end_time: 1777372155478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33591e02a00e4255ab27f3c99519c067
+run_name: silent-rook-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777372141734
+status: 3
+tags: []
+user_id: 1609p

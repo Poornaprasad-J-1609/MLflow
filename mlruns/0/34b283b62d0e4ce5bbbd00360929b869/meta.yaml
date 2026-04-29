@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/code/Mlflow/mlruns/0/34b283b62d0e4ce5bbbd00360929b869/artifacts
+end_time: 1777441612632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34b283b62d0e4ce5bbbd00360929b869
+run_name: loud-skunk-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777441604061
+status: 3
+tags: []
+user_id: 1609p

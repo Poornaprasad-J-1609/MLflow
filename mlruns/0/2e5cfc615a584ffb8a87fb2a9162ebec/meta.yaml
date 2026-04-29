@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/code/Mlflow/mlruns/0/2e5cfc615a584ffb8a87fb2a9162ebec/artifacts
+end_time: 1777440421442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e5cfc615a584ffb8a87fb2a9162ebec
+run_name: selective-shoat-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777440405600
+status: 3
+tags: []
+user_id: 1609p

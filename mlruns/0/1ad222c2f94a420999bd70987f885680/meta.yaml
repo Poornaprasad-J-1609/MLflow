@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/code/Mlflow/mlruns/0/1ad222c2f94a420999bd70987f885680/artifacts
+end_time: 1777441723092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ad222c2f94a420999bd70987f885680
+run_name: clumsy-snipe-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777441714852
+status: 3
+tags: []
+user_id: 1609p
